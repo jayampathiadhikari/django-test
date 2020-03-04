@@ -1,0 +1,3 @@
+go to -> mysite
+run -> py manage.py runserver 			on terminal
+then open index.js in frontend folder
